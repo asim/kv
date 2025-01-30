@@ -1,4 +1,4 @@
-module github.com/asim/kayvee
+module github.com/asim/kv
 
 go 1.18
 

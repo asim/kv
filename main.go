@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/asim/kayvee/server"
+	"github.com/asim/kv/server"
 )
 
 //go:embed client/*
